@@ -5,8 +5,7 @@ class Sum1
     end
   end
   
-  class Sum2
-    attr_accessor :a, :b  
+  class Sum2   
     def initialize(a, b)
       @a = a
       @b = b
